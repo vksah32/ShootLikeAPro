@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/vksah/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/vksah/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_aa36a1b8edf123af37134a05829d6d54aaa311fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vksah/.android/build-cache/7cad09752b822cc1c49704f4ea2dc5f719b4ed0f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/vksah/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_59b7bebb996957b2ce15c4a7a3016601afd531e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vksah/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.2/ccde00f7ccc77af5a6d5752e2cb21f6d8998289f/okhttp-3.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="/Users/vksah/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.2_735ffc2c5319539d266a5080e4db6a827e77b2f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vksah/.android/build-cache/1d8d2decfcf4c91038cb4779b7ef6715456b42b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="/Users/vksah/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_196ad5aa9355c605566d730de0e2a40df5300b8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vksah/.android/build-cache/01a9d575d300441083ed2b1966ff2e8e61735560/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/vksah/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_893b2d68509b32f9f77e2a4753a438ebaa4973c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vksah/.android/build-cache/afc3947943ac83ed6a7763d5c349bdfd1d3afcd6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/vksah/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef27a9ac084067f53717c31c54c56583cb61be96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vksah/.android/build-cache/e07d9ec89666317f57a476b50218340b370b21c0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/vksah/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_23c56a26089bfc422539bd61884c9f99dd38fbe9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vksah/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/vksah/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_4b9a95358e5cc6c2cf682c0371876092970832e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vksah/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="663c3157f27eaa63ead97fc5d9c0adc0da8b9a50">
+        <dex dex="/Users/vksah/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e03f193cc89ae382440db22f2c27e4ca66301403/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vksah/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/vksah/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_094a5b45b50dc8fdfd90abdf68a220932d4275a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vksah/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/vksah/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_b2b558cb76236baa58b5d93ddcd9c7040cf532cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vksah/.android/build-cache/41eb53fdea6ac4536fe7dd04853a83d156554319/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/vksah/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1efd553b4217912be62d6bc97883b4efc7c40e66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vksah/.android/build-cache/2c7e0777b9ae22daad1fbb908673826ef4d7eb45/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/vksah/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_591eb69dd02b3b7cff8da0a53b2a1f649c05b5fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vksah/.android/build-cache/4304e151ac0b8c47525e225b2c133bd0b8704d01/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/vksah/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_08ee347796fbf53eaa7487c5657529cb9e2acbdd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vksah/.android/build-cache/fa4fcf5ac3653daf94318512d633ae1f699431b3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/vksah/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40e21abb43ac4028443da87d3e27f85cb7ac41e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vksah/.android/build-cache/be051fde96652ffb44ba7b593e5c4d048eced448/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/vksah/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e320bca1f3f754147f017f0fb1b79ffe4e426874/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vksah/.android/build-cache/1463859a53bf488e78d7553fde1459c49e0b3b30/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/vksah/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_25c39e797f4fcc0c803e4d2891e19321b956e401/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vksah/.android/build-cache/cc9378979d7ae696ae3e3f84fd9474e05f72e8aa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/vksah/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5d67c6aefe0a0760f04d68f46791c2b78195abf3/classes.dex" />
+    </item>
+
+</items>
